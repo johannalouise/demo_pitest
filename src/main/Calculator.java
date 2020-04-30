@@ -1,5 +1,3 @@
-package demo_pitest.src.main;
-
 public class Calculator {
 
     public Calculator(){}
