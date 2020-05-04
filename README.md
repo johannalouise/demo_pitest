@@ -1,4 +1,7 @@
 # Demo for Pitest with the IntelliJ plugin
+This project is created by Johanna Iivanainen (jii@kth.se) and Louise Zetterlund (louiseze@kth.se) for the course DD2482 Automated Software Testing and DevOps. 
+
+The purpose with this repository is that you can use this one if you want to try to generate mutation test with the software Pitest and its plugin for the IDEA IntelliJ.  
 
 ## Software versions
 For this demo, we have tried two different set-up of versions for the necessary software:
