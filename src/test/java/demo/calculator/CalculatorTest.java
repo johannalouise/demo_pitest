@@ -21,7 +21,7 @@ public class CalculatorTest {
     @Test
     public void isPositive() {
 
-        assertTrue("0 is a positive number", calculator.isPositive(0));
+        assertTrue("1 is a positive number", calculator.isPositive(1));
 
         assertFalse("-2 is not a positive number", calculator.isPositive(-2));
 
