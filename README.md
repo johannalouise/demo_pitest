@@ -26,7 +26,7 @@ You can use both of them for setting up this repository.
 3. Mark the directory `src/main/java` as Sources Root and the directory `src/test/java` as the Test Sources Root.
 4. Run the tests by right-clicking on the chosen test folder and choose "Run All Tests".
 
-If you want to know how to generate mutation tests with Pitest and its plugin for IntelliJ, please use following link for our demo of Pitest: https://youtu.be/Jx5rfJs3-1Q
+If you want to know how to generate mutation tests with Pitest and its plugin for IntelliJ, please use following link for our demo of Pitest: https://youtu.be/u39NtaHsziM
 
 
 ### Links
